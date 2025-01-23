@@ -1,0 +1,2 @@
+# gTrends
+Google Trends Streamlit
